@@ -1,0 +1,7 @@
+{
+  "name": "Masterpiece Particle Dreams",
+  "description": "Interactive particle system transforming art masterpieces (Hokusai, Van Gogh, Monet, Munch) based on hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
